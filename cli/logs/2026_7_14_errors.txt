@@ -1,0 +1,1 @@
+[2026-07-14 12:04:08.909967 - errors] WARNING: ClientException with SocketException: Failed host lookup: 'en.wikipedia.org' (OS Error: nodename nor servname provided, or not known, errno = 8), uri=https://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=helloiamcool 
